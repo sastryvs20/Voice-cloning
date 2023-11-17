@@ -1,1 +1,3 @@
 # Voice-cloning
+
+In this project our main objective is to develop an AI model that can convert the content of one labguage to the other. Our main objective is to clone the voice of a person into another language such that, it would seem as if the same person is speaking in a language we intend him/her to. To achive this, deep knowloedge about sound waves and it's properties such as tone, pitch , wavelength , frequency and MFCC coefficients is required. I could not develop that a model that is capable of cloning the voice, but I was able to develop a model that is capable of converting speech between international languages.
